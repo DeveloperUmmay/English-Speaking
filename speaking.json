@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Basic English",
+      "subcategories": [
+        {
+          "id": "s1",
+          "title": "Surah Nisa",
+          "duas": [
+            {
+              "id": "d1",
+              "arabic": "بِسْمِ اللَّهِ الَّذِي...‏",
+              "meaning": "নারীদেরকে তাদের মোহর স্বতঃস্ফূর্ত হয়ে দেবে, অতঃপর তারা যদি সন্তোষের সঙ্গে তাথেকে তোমাদের জন্য কিছু ছেড়ে দেয়, তবে তা তৃপ্তির সঙ্গে ভোগ কর।",
+              "reference": "Tirmidhi"
+            },
+            {
+              "id": "d2",
+              "arabic": "بِسْمِ اللَّهِ الَّذِي...",
+              "meaning": "আল্লাহর নামে যার...",
+              "reference": "Abu Dawood"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "title": "sura fatiha",
+          "duas": [
+            {
+              "id": "d3",
+              "arabic": "بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ",
+              "meaning": "(আরম্ভ করছি) পরম করুণাময় অসীম দয়াময় আল্লাহর নামে।",
+              "reference": "Al Quran"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Travel Duas",
+      "subcategories": [
+        {
+          "id": "s3",
+          "title": "Before Journey",
+          "duas": [
+            {
+              "id": "d4",
+              "arabic": "سُبْحَانَ الَّذِي سَخَّرَ...",
+              "meaning": "পবিত্র তিনি যিনি...",
+              "reference": "Tirmidhi"
+            }
+          ]
+        }
+      ]
+    },
+     {
+      "id": "c3",
+      "title": "Travel Duas",
+      "subcategories": [
+        {
+          "id": "s4",
+          "title": "Before Journey",
+          "duas": [
+            {
+              "id": "d5",
+              "arabic": "سُبْحَانَ الَّذِي سَخَّرَ...",
+              "meaning": "পবিত্র তিনি যিনি...",
+              "reference": "Tirmidhi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
