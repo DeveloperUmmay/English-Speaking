@@ -1,0 +1,68 @@
+[
+  {
+    "no": 1,
+    "english": "Red",
+    "bangla": "লাল",
+    "pronunciation": "রেড"
+  },
+  {
+    "no": 2,
+    "english": "Blue",
+    "bangla": "নীল",
+    "pronunciation": "ব্লু"
+  },
+  {
+    "no": 3,
+    "english": "Green",
+    "bangla": "সবুজ",
+    "pronunciation": "গ্রিন"
+  },
+  {
+    "no": 4,
+    "english": "Yellow",
+    "bangla": "হলুদ",
+    "pronunciation": "ইয়েলো"
+  },
+  {
+    "no": 5,
+    "english": "Black",
+    "bangla": "কালো",
+    "pronunciation": "ব্ল্যাক"
+  },
+  {
+    "no": 6,
+    "english": "White",
+    "bangla": "সাদা",
+    "pronunciation": "হোয়াইট"
+  },
+  {
+    "no": 7,
+    "english": "Pink",
+    "bangla": "গোলাপি",
+    "pronunciation": "পিঙ্ক"
+  },
+  {
+    "no": 8,
+    "english": "Orange",
+    "bangla": "কমলা",
+    "pronunciation": "অরেঞ্জ"
+  },
+  {
+    "no": 9,
+    "english": "Purple",
+    "bangla": "বেগুনি",
+    "pronunciation": "পার্পল"
+  },
+  {
+    "no": 10,
+    "english": "Brown",
+    "bangla": "বাদামি",
+    "pronunciation": "ব্রাউন"
+  },
+  {
+    "no": 11,
+    "english": "Gray/Grey",
+    "bangla": "ধূসর",
+    "pronunciation": "গ্রে"
+  }
+]
