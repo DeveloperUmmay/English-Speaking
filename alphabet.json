@@ -1,0 +1,40 @@
+{
+  "english_alphabets": [
+    { "letter": "A a", "pronunciation": "/eɪ/", "bengali_pronunciation": "এ" },
+    { "letter": "B b", "pronunciation": "/biː/", "bengali_pronunciation": "বি" },
+    { "letter": "C c", "pronunciation": "/siː/", "bengali_pronunciation": "সি" },
+    { "letter": "D d", "pronunciation": "/diː/", "bengali_pronunciation": "ডি" },
+    { "letter": "E e", "pronunciation": "/iː/", "bengali_pronunciation": "ই" },
+    { "letter": "F f", "pronunciation": "/ɛf/", "bengali_pronunciation": "এফ" },
+    { "letter": "G g", "pronunciation": "/dʒiː/", "bengali_pronunciation": "জি" },
+    { "letter": "H h", "pronunciation": "/eɪtʃ/", "bengali_pronunciation": "এইচ" },
+    { "letter": "I i", "pronunciation": "/aɪ/", "bengali_pronunciation": "আই" },
+    { "letter": "J j", "pronunciation": "/dʒeɪ/", "bengali_pronunciation": "জে" },
+    { "letter": "K k", "pronunciation": "/keɪ/", "bengali_pronunciation": "কে" },
+    { "letter": "L l", "pronunciation": "/ɛl/", "bengali_pronunciation": "এল" },
+    { "letter": "M m", "pronunciation": "/ɛm/", "bengali_pronunciation": "এম" },
+    { "letter": "N n", "pronunciation": "/ɛn/", "bengali_pronunciation": "এন" },
+    { "letter": "O o", "pronunciation": "/oʊ/", "bengali_pronunciation": "ও" },
+    { "letter": "P p", "pronunciation": "/piː/", "bengali_pronunciation": "পি" },
+    { "letter": "Q q", "pronunciation": "/kjuː/", "bengali_pronunciation": "কিউ" },
+    { "letter": "R r", "pronunciation": "/ɑːr/", "bengali_pronunciation": "আর" },
+    { "letter": "S s", "pronunciation": "/ɛs/", "bengali_pronunciation": "এস" },
+    { "letter": "T t", "pronunciation": "/tiː/", "bengali_pronunciation": "টি" },
+    { "letter": "U u", "pronunciation": "/juː/", "bengali_pronunciation": "ইউ" },
+    { "letter": "V v", "pronunciation": "/viː/", "bengali_pronunciation": "ভি" },
+    { "letter": "W w", "pronunciation": "/ˈdʌbəl.juː/", "bengali_pronunciation": "ডাবল ইউ" },
+    { "letter": "X x", "pronunciation": "/ɛks/", "bengali_pronunciation": "এক্স" },
+    { "letter": "Y y", "pronunciation": "/waɪ/", "bengali_pronunciation": "ওয়াই" },
+    { "letter": "Z z", "pronunciation": "/ziː/ (US) /zed/ (UK)", "bengali_pronunciation": "জি (US), জেড (UK)" }
+  ],
+  "classification": {
+    "vowels": {
+      "letters": ["A", "E", "I", "O", "U"],
+      "description": "স্বরবর্ণ"
+    },
+    "consonants": {
+      "letters": ["B", "C", "D", "F", "G", "H", "J", "K", "L", "M", "N", "P", "Q", "R", "S", "T", "V", "W", "X", "Y", "Z"],
+      "description": "ব্যঞ্জনবর্ণ"
+    }
+  }
+}
